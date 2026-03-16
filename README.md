@@ -45,15 +45,7 @@ reduce dependancy on LLM by creating global data use python libraries for voice 
 
  
 
----
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Kushagra-Agarwal22&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagra-Agarwal22&layout=compact&theme=radical)
-
----
 
 ## 📫 Connect With Me
 
